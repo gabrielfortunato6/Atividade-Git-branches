@@ -83,3 +83,9 @@ system("pause");
 return 0;
 
 }
+
+{
+
+printf("By Gabriel Ambrósio");
+
+}
